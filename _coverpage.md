@@ -1,5 +1,6 @@
-Aquí pondré un buen Readme!
+<!-- _coverpage.md -->
 
+<!-- ![logo](_media/colab_logo.png) -->
 ![logo](https://vilcagamarracf.github.io/img/favicon.png)
 
 # Probando `docsify.js`
@@ -9,3 +10,6 @@ Aquí pondré un buen Readme!
 - Simple and lightweight
 - No statically built html files
 - Multiple themes
+
+[GitHub](https://github.com/vilcagamarracf/Prueba-docsify)
+[Get Started](#Inicio)
