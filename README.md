@@ -1,5 +1,3 @@
-Aquí pondré un buen Readme!
-
 ![logo](https://vilcagamarracf.github.io/img/favicon.png)
 
 # Probando `docsify.js`

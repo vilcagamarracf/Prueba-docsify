@@ -7,9 +7,5 @@
 
 > Un generador de documentación mágico
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
 [GitHub](https://github.com/vilcagamarracf/Prueba-docsify)
-[Get Started](#Inicio)
+[Get Started](/#)
