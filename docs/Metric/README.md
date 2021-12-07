@@ -1,7 +1,7 @@
 # Inv_arroz_METRIC
 
 <p align='center'>
-   <img src="https://github.com/vilcagamarracf/Inv_arroz_METRIC/raw/main/Github%20Cover%20-%20METRIC.png" alt="Github Cover - METRIC"/>
+   <img src='https://github.com/vilcagamarracf/Inv_arroz_METRIC/blob/main/figures/Github%20Cover%20-%20METRIC.png?raw=true' alt="Github Cover - METRIC"/>
 </p>
 
 <h4 align="center"> Aplicación de Hidrología usando Python :ear_of_rice: </h4>
@@ -9,7 +9,6 @@
 <p align='center'>
    <img src="https://img.shields.io/github/last-commit/vilcagamarracf/Inv_arroz_METRIC?style=flat-square" alt="GitHub last commit"/>
 </p>
-
 
 <!-- <img src="https://github.com/vilcagamarracf/Inv_arroz_METRIC/raw/main/figures/Region_of_Interest.PNG" alt="Zona de trabajo" align='right' width=300/> -->
 
